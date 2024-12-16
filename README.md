@@ -21,7 +21,6 @@ I am eagerly seeking opportunities in the IT industry to contribute my skills an
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NocturnalRaven&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ece5dd36-749d-41c0-9697-f06cc8576a96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
 [![](https://visitcount.itsvg.in/api?id=NocturnalRaven&icon=0&color=0)](https://visitcount.itsvg.in)
 
